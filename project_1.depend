@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698433795 source:d:\adham\project_1\main.cpp
+	<iostream>
+	<stdexcept>
+	<cstdlib>
+	<windows.h>
+	<stdlib.h>
+	<algorithm>
+
